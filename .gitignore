@@ -1,0 +1,56 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+**/.venv/
+
+# ==========================
+# Runtime data (backend)
+# ==========================
+backend/data/
+backend/output/
+backend/models/
+backend/logs/
+backend/draft/
+
+# ==========================
+# Node / Frontend
+# ==========================
+frontend/node_modules/
+frontend/dist/
+
+# ==========================
+# IDE / Editor / Tooling
+# ==========================
+.vscode/
+.idea/
+.claude/
+CLAUDE.md
+AGENTS.md
+*.swp
+*.swo
+*~
+
+# ==========================
+# OS
+# ==========================
+.DS_Store
+Thumbs.db
+.fuse_hidden*
+
+# ==========================
+# Environment
+# ==========================
+.env
+.env.*
+*.log

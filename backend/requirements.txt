@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+paddleocr
+pdf2image
+opencv-python-headless
+torch
+numpy
+Pillow
+pyyaml
+vietocr
