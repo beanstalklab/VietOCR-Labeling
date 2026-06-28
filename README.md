@@ -153,3 +153,7 @@ If Conda or system Python is preferred, `run.sh` can be edited to replace `uv ru
 | Styling | Tailwind CSS 4 |
 | State Management | Pinia |
 | HTTP Client | Axios |
+
+## License
+
+Released under the [MIT License](LICENSE).
